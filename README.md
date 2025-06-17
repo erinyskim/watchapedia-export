@@ -7,7 +7,7 @@
     <img width="650" src="https://raw.githubusercontent.com/erinyskim/watchapedia-export/main/img/export_001.png">
 2. 왓챠피디아 주소 창에 javascript:를 입력하고(:콜론 까지 입력)
     <img width="650" src="https://raw.githubusercontent.com/erinyskim/watchapedia-export/main/img/export_002.png">
-3. [watchapedia_export.js](https://github.com/henryseong0215/watchapedia-export/blob/main/watchapedia_export.js) 링크 클릭 후 스크립트를 복사하고 javascript: 바로 뒤에 붙여넣기 한 뒤에 엔터 키를 입력해주세요.
+3. [watchapedia_export.js](https://github.com/erinyskim/watchapedia-export/blob/main/watchapedia_export.js) 링크 클릭 후 스크립트를 복사하고 javascript: 바로 뒤에 붙여넣기 한 뒤에 엔터 키를 입력해주세요.
     <img width="650" src="https://raw.githubusercontent.com/erinyskim/watchapedia-export/main/img/export_003.png">
     <img width="650" src="https://raw.githubusercontent.com/erinyskim/watchapedia-export/main/img/export_004.png">
 4. 잠시만 기다리면 내 기록이 파일로 다운로드됩니다. 
